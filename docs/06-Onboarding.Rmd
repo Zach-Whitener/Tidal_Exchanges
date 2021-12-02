@@ -13,7 +13,7 @@
 
 ####  IT support
   
-- Tim Reich or Nick Georghiou. Questions or formal help requests can be directed to help@gmri.org, or smaller/quicker questions by contacting Tim or Nick on slack.
+- Tim Reich or Nick Georghiou. Questions or formal help requests can be directed to help@gmri.org to create a ticket, or smaller/quicker questions by contacting Tim or Nick on slack.
 
 ### GMRI resources
 
